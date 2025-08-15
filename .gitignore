@@ -1,0 +1,6 @@
+# Office lock files
+~$*
+# Giant binaries we keep in Releases, not Git
+*.mp4
+*.mov
+*.pptx
