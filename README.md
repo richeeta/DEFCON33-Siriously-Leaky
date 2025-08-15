@@ -54,8 +54,6 @@ _Direct download links below come from the GitHub Release; checksums are shown o
 
 - Most PoCs can only be reproduced on specific iOS/iPadOS versions (and certain app versions); please see slide notes for context.
 - Please report issues via GitHub issues.
-  
-  ---
 
 
 ## License & Reuse
