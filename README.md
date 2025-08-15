@@ -48,11 +48,8 @@ _Direct download links below come from the GitHub Release; checksums are shown o
 
 ## Repo structure
 
-- `PoCs/` – **not** tracked in Git for media; see Release assets above.
-
 - `Im Siriously Leaky v2.02.pdf` – lightweight PDF copy of slides (kept in repo).
-
-- Diagrams/images (PNG/JPG) – kept in repo for readability. 
+- Please see the [Releases](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/tag/v2.02) page for all PoCs and the final `.pptx`. (Note: The PoC videos included individually, but the `.pptx` file also includes all PoCs.)
  
 ## Notes
 
