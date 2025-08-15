@@ -1,5 +1,4 @@
-# Siri-ously Leaky — DEF CON 33 / HOU.SEC.CON 2025
-
+## Siri-ously Leaky: Exploring Overlooked Attack Surfaces Across Apple's Ecosystem (DEF CON 33 / HOU.SEC.CON 2025)
 **Author**: Richard Hyunho Im (@richeeta)
 
 This repo contains my slide deck and demo videos for my DEF CON 33 presentation on overlooked attack surfaces across Apple's ecosystem. I will deliver an updated version of this talk at [HOU.SEC.CON 2025](https://web.cvent.com/event/9ba9c5ea-9502-44a2-922e-d026c047c9f3/websitePage:c95771fe-7a36-4da8-9150-389979ec788f?rp=7fc495f3-0ae2-4b86-a115-0ce784642a9f) on October 1, 2025 at 3 PM CT.
@@ -49,7 +48,7 @@ _Direct download links below come from the GitHub Release; checksums are shown o
 ## Repo structure
 
 - `Im Siriously Leaky v2.02.pdf` – lightweight PDF copy of slides (kept in repo).
-- Please see the [Releases](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/tag/v2.02) page for all PoCs and the final `.pptx`. (Note: The PoC videos included individually, but the `.pptx` file also includes all PoCs.)
+- Please see the [Releases](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/tag/v2.02) page for all PoCs and the final `.pptx`. (Note: The PoC videos have been added individually, but the `.pptx` file also includes all PoC videos, screenshots, and diagrams.)
  
 ## Notes
 
