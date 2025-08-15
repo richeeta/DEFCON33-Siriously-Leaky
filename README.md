@@ -9,7 +9,7 @@ This repo contains my slide deck and demo videos for my DEF CON 33 presentation 
   
   - Release page: https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/tag/v2.02
 
-- Repo stays **lightweight** (diagrams & docs only). All large media lives in the Release assets.
+- All large media live in the Release assets.
   
   
 
