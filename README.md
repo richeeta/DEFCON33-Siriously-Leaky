@@ -1,17 +1,14 @@
 ## Siri-ously Leaky: Exploring Overlooked Attack Surfaces Across Apple's Ecosystem (DEF CON 33 / HOU.SEC.CON 2025)
 **Author**: Richard Hyunho Im (@richeeta)
 
-This repo contains my slide deck and demo videos for my DEF CON 33 presentation on overlooked attack surfaces across Apple's ecosystem. I will deliver an updated version of this talk at [HOU.SEC.CON 2025](https://web.cvent.com/event/9ba9c5ea-9502-44a2-922e-d026c047c9f3/websitePage:c95771fe-7a36-4da8-9150-389979ec788f?rp=7fc495f3-0ae2-4b86-a115-0ce784642a9f) on October 1, 2025 at 3 PM CT.
+This repo contains my slide deck and demo videos for my [DEF CON 33 main stage presentation](https://infocondb.org/con/def-con/def-con-33/siri-ously-leaky-exploring-overlooked-attack-surfaces-across-apples-ecosystem) on overlooked attack surfaces across Apple's ecosystem. I will deliver an updated version of this talk at [HOU.SEC.CON 2025](https://web.cvent.com/event/9ba9c5ea-9502-44a2-922e-d026c047c9f3/websitePage:c95771fe-7a36-4da8-9150-389979ec788f?rp=7fc495f3-0ae2-4b86-a115-0ce784642a9f) on October 1, 2025 at 3 PM CT.
 
 ## TL;DR
 
-- **Slides & all demos are attached to the v2.02 release:**
-  
-  - Release page: https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/tag/v2.02
-
-- All large media live in the Release assets.
-  
-  
+- **Slides & all demos are attached to the [v2.02 release](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/tag/v2.02)**.
+- **Talk recording (DEF CON 33 Main Stage, Track 4):**  
+  - [Direct download (MP4)](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/SiriouslyLeakyTalk.mp4)
+  - [Also viewable on YouTube](https://youtu.be/1d381JJPj7k?si=ksd-jiIltzU6SY8d)  
 
 ## Talk pages
 
@@ -21,12 +18,13 @@ This repo contains my slide deck and demo videos for my DEF CON 33 presentation 
 
 ## Assets (v2.02)
 
-_Direct download links below come from the GitHub Release; checksums are shown on the release page._
+_Direct download links below come from the [GitHub Release](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/tag/v2.02); checksums are shown on the release page._
 
 
 
 | File                                                                                                                                            | What it shows                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **[SiriouslyLeakyTalk.mp4](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/SiriouslyLeakyTalk.mp4)** (Also on [YouTube](https://youtu.be/1d381JJPj7k?si=ksd-jiIltzU6SY8d)) | Full talk recording (DEF CON 33 main stage, Track 4) |
 | [AppleSEEDBAC.MP4](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/AppleSEEDBAC.MP4)                               | Apple SEED BAC                                                             |
 | [AudiobookLeak.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/AudiobookLeak.mov)                             | Books Action Shortcut leaking last read audiobook title                    |
 | [ChatGPTLeak.mp4](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/ChatGPTLeak.mp4)                                 | Siri→ChatGPT data exfil PoC (CVE-2024-44235 family)                        |
