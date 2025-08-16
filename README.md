@@ -10,12 +10,6 @@ This repo contains my slide deck and demo videos for my [DEF CON 33 main stage p
   - [Direct download (MP4)](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/SiriouslyLeakyTalk.mp4)
   - [Also viewable on YouTube](https://youtu.be/1d381JJPj7k?si=ksd-jiIltzU6SY8d)  
 
-## Talk pages
-
-- **DEF CON 33 Main Stage:** https://infocondb.org/con/def-con/def-con-33/siri-ously-leaky-exploring-overlooked-attack-surfaces-across-apples-ecosystem
-- **HOU.SEC.CON 2025:** https://web.cvent.com/event/9ba9c5ea-9502-44a2-922e-d026c047c9f3/websitePage:c95771fe-7a36-4da8-9150-389979ec788f?rp=7fc495f3-0ae2-4b86-a115-0ce784642a9f
-  
-
 ## Assets (v2.02)
 
 _Direct download links below come from the [GitHub Release](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/tag/v2.02); checksums are shown on the release page._
