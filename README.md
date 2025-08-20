@@ -36,6 +36,7 @@ _Direct download links below come from the [GitHub Release](https://github.com/r
 | [SpeakScreenNotes.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/SpeakScreenNotes.mov)                       | Speak Screen reading beyond visible content in Notes widget on Lock Screen |
 | [StoreFrontBAC.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/StoreFrontBAC.mov)                             | App Store storefront BAC #1 (initial access)                               |
 | [StoreFrontBAC2.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/StoreFrontBAC2.mov)                           | App Store storefront BAC #2 (inside the app)                               |
+| [StoreFrontBAC2.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/idor.py)                           | PoC for IDOR in Apple's support portal                               |
 
 ## Repo structure
 
