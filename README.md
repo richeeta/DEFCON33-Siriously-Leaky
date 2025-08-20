@@ -27,6 +27,7 @@ _Direct download links below come from the [GitHub Release](https://github.com/r
 | [CVE-2025-24225.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/CVE-2025-24225.mov)                           | CVE‑2025‑24225 PoC                                                         |
 | [FilesSpoofing.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/FilesSpoofing.mov)                             | File spoofing in Files app                                                 |
 | [getsupportIDOR.mp4](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/getsupportIDOR.mp4)                           | IDOR on getsupport.apple.com                                               |
+| [idor.py](https://github.com/richeeta/DEFCON33-Siriously-Leaky/idor.py)                           | PoC for IDOR in Apple's support portal                               |
 | [HiddenPhotosLeakviaSiri.mp4](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/HiddenPhotosLeakviaSiri.mp4)         | Hidden Photos leakage via Siri                                             |
 | [Im.Siriously.Leaky.v2.02.pptx](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/Im.Siriously.Leaky.v2.02.pptx)     | Slide deck (v2.02)                                                         |
 | [PCCDataLeak.mp4](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/PCCDataLeak.mp4)                                 | Siri context confusion → Private Cloud Compute (PCC) data leak to ChatGPT  |
@@ -36,7 +37,6 @@ _Direct download links below come from the [GitHub Release](https://github.com/r
 | [SpeakScreenNotes.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/SpeakScreenNotes.mov)                       | Speak Screen reading beyond visible content in Notes widget on Lock Screen |
 | [StoreFrontBAC.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/StoreFrontBAC.mov)                             | App Store storefront BAC #1 (initial access)                               |
 | [StoreFrontBAC2.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/StoreFrontBAC2.mov)                           | App Store storefront BAC #2 (inside the app)                               |
-| [StoreFrontBAC2.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/idor.py)                           | PoC for IDOR in Apple's support portal                               |
 
 ## Repo structure
 
