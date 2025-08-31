@@ -1,4 +1,4 @@
-## Siri-ously Leaky: Exploring Overlooked Attack Surfaces Across Apple's Ecosystem (DEF CON 33 / HOU.SEC.CON 2025)
+## Siri-ously Leaky: Exploring Overlooked Attack Surfaces Across Apple's Ecosystem (DEF CON 33 & HOU.SEC.CON 2025)
 **Author**: Richard Hyunho Im (@richeeta)
 
 This repo contains my slide deck and demo videos for my [DEF CON 33 main stage presentation](https://infocondb.org/con/def-con/def-con-33/siri-ously-leaky-exploring-overlooked-attack-surfaces-across-apples-ecosystem) on overlooked attack surfaces across Apple's ecosystem. I will deliver an updated version of this talk at [HOU.SEC.CON 2025](https://web.cvent.com/event/9ba9c5ea-9502-44a2-922e-d026c047c9f3/websitePage:c95771fe-7a36-4da8-9150-389979ec788f?rp=7fc495f3-0ae2-4b86-a115-0ce784642a9f) on October 1, 2025 at 3 PM CT.
@@ -26,8 +26,8 @@ _Direct download links below come from the [GitHub Release](https://github.com/r
 | [CVE-2025-24198-Safari-Leak.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/CVE-2025-24198-Safari-Leak.mov)   | Safari browsing leak for CVE‑2025‑24198                                    |
 | [CVE-2025-24225.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/CVE-2025-24225.mov)                           | CVE‑2025‑24225 PoC                                                         |
 | [FilesSpoofing.mov](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/FilesSpoofing.mov)                             | File spoofing in Files app                                                 |
-| [getsupportIDOR.mp4](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/getsupportIDOR.mp4)                           | IDOR on getsupport.apple.com                                               |
-| [idor.py](https://github.com/richeeta/DEFCON33-Siriously-Leaky/idor.py)                           | PoC for IDOR in Apple's support portal                               |
+| [getsupportIDOR.mp4](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/getsupportIDOR.mp4)                           | IDOR on getsupport.apple.com PoC (Screen Recording using Burp Intruder)                                              |
+| [idor.py](https://github.com/richeeta/DEFCON33-Siriously-Leaky/blob/main/idor.py)                           | IDOR on getsupport.apple.com Alternative PoC (Python script)                               |
 | [HiddenPhotosLeakviaSiri.mp4](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/HiddenPhotosLeakviaSiri.mp4)         | Hidden Photos leakage via Siri                                             |
 | [Im.Siriously.Leaky.v2.02.pptx](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/Im.Siriously.Leaky.v2.02.pptx)     | Slide deck (v2.02)                                                         |
 | [PCCDataLeak.mp4](https://github.com/richeeta/DEFCON33-Siriously-Leaky/releases/download/v2.02/PCCDataLeak.mp4)                                 | Siri context confusion → Private Cloud Compute (PCC) data leak to ChatGPT  |
